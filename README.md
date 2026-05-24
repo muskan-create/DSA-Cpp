@@ -23,6 +23,7 @@ DSA and LeetCode solutions in C++
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,8 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
