@@ -39,4 +39,12 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
