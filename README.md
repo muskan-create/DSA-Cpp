@@ -15,6 +15,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
