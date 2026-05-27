@@ -32,6 +32,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskan-create/DSA-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/muskan-create/DSA-Cpp/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
@@ -48,6 +49,7 @@ DSA and LeetCode solutions in C++
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 ## Linked List
@@ -71,4 +73,8 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-create/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
