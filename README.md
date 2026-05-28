@@ -11,6 +11,7 @@ DSA and LeetCode solutions in C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ DSA and LeetCode solutions in C++
 | [0008-string-to-integer-atoi](https://github.com/muskan-create/DSA-Cpp/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Bit Manipulation
@@ -77,4 +79,8 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
