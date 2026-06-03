@@ -15,6 +15,7 @@ DSA and LeetCode solutions in C++
 | [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ DSA and LeetCode solutions in C++
 | [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ DSA and LeetCode solutions in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-create/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,8 +103,10 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 <!---LeetCode Topics End-->
