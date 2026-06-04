@@ -34,6 +34,7 @@ DSA and LeetCode solutions in C++
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +111,8 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
