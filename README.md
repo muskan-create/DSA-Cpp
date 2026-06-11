@@ -34,6 +34,7 @@ DSA and LeetCode solutions in C++
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## String
@@ -117,4 +118,12 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
