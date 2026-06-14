@@ -27,6 +27,7 @@ DSA and LeetCode solutions in C++
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/muskan-create/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
@@ -67,11 +68,13 @@ DSA and LeetCode solutions in C++
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
