@@ -12,6 +12,7 @@ DSA and LeetCode solutions in C++
 | [0014-longest-common-prefix](https://github.com/muskan-create/DSA-Cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
@@ -74,6 +75,7 @@ DSA and LeetCode solutions in C++
 | [0011-container-with-most-water](https://github.com/muskan-create/DSA-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -136,6 +138,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
