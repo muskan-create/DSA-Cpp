@@ -22,6 +22,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskan-create/DSA-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/muskan-create/DSA-Cpp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -31,6 +32,7 @@ DSA and LeetCode solutions in C++
 | [0002-add-two-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/muskan-create/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/muskan-create/DSA-Cpp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
@@ -47,6 +49,7 @@ DSA and LeetCode solutions in C++
 | [0006-zigzag-conversion](https://github.com/muskan-create/DSA-Cpp/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/muskan-create/DSA-Cpp/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/muskan-create/DSA-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
+| [0012-integer-to-roman](https://github.com/muskan-create/DSA-Cpp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
