@@ -17,6 +17,7 @@ DSA and LeetCode solutions in C++
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
@@ -43,6 +44,7 @@ DSA and LeetCode solutions in C++
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/muskan-create/DSA-Cpp/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -147,6 +149,7 @@ DSA and LeetCode solutions in C++
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
+| [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
