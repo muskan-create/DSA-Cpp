@@ -19,6 +19,7 @@ DSA and LeetCode solutions in C++
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/muskan-create/DSA-Cpp/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -33,6 +34,7 @@ DSA and LeetCode solutions in C++
 | [0012-integer-to-roman](https://github.com/muskan-create/DSA-Cpp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/muskan-create/DSA-Cpp/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/muskan-create/DSA-Cpp/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -167,6 +169,7 @@ DSA and LeetCode solutions in C++
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/muskan-create/DSA-Cpp/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
