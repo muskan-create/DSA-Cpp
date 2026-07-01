@@ -20,6 +20,7 @@ DSA and LeetCode solutions in C++
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/muskan-create/DSA-Cpp/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
@@ -119,6 +120,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-create/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
@@ -205,4 +207,20 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
