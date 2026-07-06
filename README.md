@@ -16,6 +16,7 @@ DSA and LeetCode solutions in C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -175,6 +176,7 @@ DSA and LeetCode solutions in C++
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
