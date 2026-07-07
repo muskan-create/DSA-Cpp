@@ -63,6 +63,7 @@ DSA and LeetCode solutions in C++
 | [3700-number-of-zigzag-arrays-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
