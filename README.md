@@ -28,6 +28,7 @@ DSA and LeetCode solutions in C++
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -48,6 +49,7 @@ DSA and LeetCode solutions in C++
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/muskan-create/DSA-Cpp/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -65,6 +67,7 @@ DSA and LeetCode solutions in C++
 | [1344-angle-between-hands-of-a-clock](https://github.com/muskan-create/DSA-Cpp/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskan-create/DSA-Cpp/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muskan-create/DSA-Cpp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -139,6 +142,7 @@ DSA and LeetCode solutions in C++
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -221,6 +225,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -229,6 +234,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/muskan-create/DSA-Cpp/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -274,7 +280,12 @@ DSA and LeetCode solutions in C++
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muskan-create/DSA-Cpp/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskan-create/DSA-Cpp/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
