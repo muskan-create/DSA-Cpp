@@ -16,6 +16,7 @@ DSA and LeetCode solutions in C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
+| [1260-shift-2d-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -108,6 +109,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [1260-shift-2d-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/1260-shift-2d-grid/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskan-create/DSA-Cpp/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -265,6 +267,7 @@ DSA and LeetCode solutions in C++
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
