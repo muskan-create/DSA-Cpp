@@ -1,47 +1,50 @@
 class Solution {
 public:
-    int day(vector<int>& weights,int capacity){
-        int day=0;
-        int c=capacity;
 
-        for(int i=0;i<weights.size();i++){
-            if(c>=weights[i]){
-                c-=weights[i];
+    // Returns how many days are needed with given capacity
+    int countDays(vector<int>& weights, int capacity) {
+        int days = 1;
+        int load = 0;
+
+        for (int i = 0; i < weights.size(); i++) {
+
+            // Current package fit ho jayega
+            if (load + weights[i] <= capacity) {
+                load += weights[i];
             }
-            else{
-                day++;
-                c=capacity-weights[i];
+            // Naya din start karo
+            else {
+                days++;
+                load = weights[i];
             }
         }
 
-        day++;
-        return day;
+        return days;
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
-        int n=weights.size();
-        int lo=0;
-        int hi=0;
 
-        for(int i=0;i<n;i++){
-            hi+=weights[i];
-            lo=max(lo,weights[i]);
+        int low = *max_element(weights.begin(), weights.end());
+        int high = 0;
+
+        for (int i = 0; i < weights.size(); i++) {
+            high += weights[i];
         }
 
-        int ans=-1;
+        while (low <= high) {
 
-        while(lo<=hi){
-            int mid=lo+(hi-lo)/2;
+            int mid = low + (high - low) / 2;
 
-            if(day(weights,mid)<=days){
-                ans=mid;
-                hi=mid-1;
+            int requiredDays = countDays(weights, mid);
+
+            if (requiredDays <= days) {
+                high = mid - 1;   // Chhoti capacity try karo
             }
-            else{
-                lo=mid+1;
+            else {
+                low = mid + 1;    // Capacity badhao
             }
         }
 
-        return ans;
+        return low;
     }
 };
