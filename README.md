@@ -35,6 +35,7 @@ DSA and LeetCode solutions in C++
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -109,6 +110,7 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ DSA and LeetCode solutions in C++
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskan-create/DSA-Cpp/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
@@ -155,6 +158,7 @@ DSA and LeetCode solutions in C++
 | [3312-sorted-gcd-pair-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
@@ -174,6 +178,7 @@ DSA and LeetCode solutions in C++
 | [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/muskan-create/DSA-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -202,6 +207,7 @@ DSA and LeetCode solutions in C++
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskan-create/DSA-Cpp/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -214,6 +220,7 @@ DSA and LeetCode solutions in C++
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskan-create/DSA-Cpp/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
@@ -283,6 +290,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
