@@ -17,6 +17,7 @@ DSA and LeetCode solutions in C++
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskan-create/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muskan-create/DSA-Cpp/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/1260-shift-2d-grid/) | Easy |
@@ -52,6 +53,7 @@ DSA and LeetCode solutions in C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskan-create/DSA-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/muskan-create/DSA-Cpp/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/muskan-create/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/muskan-create/DSA-Cpp/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/muskan-create/DSA-Cpp/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -139,6 +141,7 @@ DSA and LeetCode solutions in C++
 | [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan-create/DSA-Cpp/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -163,6 +166,7 @@ DSA and LeetCode solutions in C++
 | [0004-median-of-two-sorted-arrays](https://github.com/muskan-create/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskan-create/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muskan-create/DSA-Cpp/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/muskan-create/DSA-Cpp/tree/main/3161-block-placement-queries/) | Hard |
@@ -226,6 +230,7 @@ DSA and LeetCode solutions in C++
 | [0015-3sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/muskan-create/DSA-Cpp/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/muskan-create/DSA-Cpp/tree/main/0018-4sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1331-rank-transform-of-an-array/) | Easy |
