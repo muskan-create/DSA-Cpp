@@ -23,6 +23,7 @@ DSA and LeetCode solutions in C++
 | [1260-shift-2d-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/muskan-create/DSA-Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -234,6 +235,7 @@ DSA and LeetCode solutions in C++
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/muskan-create/DSA-Cpp/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/muskan-create/DSA-Cpp/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/muskan-create/DSA-Cpp/tree/main/2126-destroying-asteroids/) | Medium |
@@ -298,6 +300,7 @@ DSA and LeetCode solutions in C++
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/muskan-create/DSA-Cpp/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
