@@ -17,6 +17,7 @@ DSA and LeetCode solutions in C++
 | [0027-remove-element](https://github.com/muskan-create/DSA-Cpp/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskan-create/DSA-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0486-predict-the-winner](https://github.com/muskan-create/DSA-Cpp/tree/main/0486-predict-the-winner/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muskan-create/DSA-Cpp/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muskan-create/DSA-Cpp/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -78,6 +79,7 @@ DSA and LeetCode solutions in C++
 | [0066-plus-one](https://github.com/muskan-create/DSA-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/muskan-create/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/muskan-create/DSA-Cpp/tree/main/0069-sqrtx/) | Easy |
+| [0486-predict-the-winner](https://github.com/muskan-create/DSA-Cpp/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/muskan-create/DSA-Cpp/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/muskan-create/DSA-Cpp/tree/main/1840-maximum-building-height/) | Hard |
@@ -169,6 +171,7 @@ DSA and LeetCode solutions in C++
 | [0002-add-two-numbers](https://github.com/muskan-create/DSA-Cpp/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/muskan-create/DSA-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/muskan-create/DSA-Cpp/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0486-predict-the-winner](https://github.com/muskan-create/DSA-Cpp/tree/main/0486-predict-the-winner/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ DSA and LeetCode solutions in C++
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muskan-create/DSA-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/muskan-create/DSA-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
+| [0486-predict-the-winner](https://github.com/muskan-create/DSA-Cpp/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/muskan-create/DSA-Cpp/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/muskan-create/DSA-Cpp/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/muskan-create/DSA-Cpp/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -363,4 +367,8 @@ DSA and LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/muskan-create/DSA-Cpp/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/muskan-create/DSA-Cpp/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
